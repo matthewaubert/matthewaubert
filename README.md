@@ -8,7 +8,7 @@ In my personal time I love traveling, hiking and backpacking, landscape and wild
 
 You can reach me at matthewraubert@gmail.com
 
-## Technology
+## Skills
 
 ### Tools I'm Familiar With
 [![My Skills](https://skillicons.dev/icons?i=js,react,html,css,git,github,bash,vscode,vite,vitest,jest,webpack,babel)](https://skillicons.dev)
