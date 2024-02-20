@@ -11,7 +11,7 @@ You can reach me at matthewraubert@gmail.com
 ## Skills
 
 ### Tools I'm Familiar With
-[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,git,github,bash,vscode,vite,vitest,jest,webpack,babel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,git,github,vscode,vite,vitest,jest,webpack,babel)](https://skillicons.dev)
 
 ### Tools I'm Currently Learning
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb)](https://skillicons.dev)
