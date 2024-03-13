@@ -18,7 +18,7 @@ You can reach me at matthewraubert@gmail.com
 [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev "CSS")&nbsp;
 [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev "Git")&nbsp;
 [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev "GitHub")&nbsp;
-[![VSCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev "VS Code")&nbsp;
+[![VS Code](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev "VS Code")&nbsp;
 [![Vite](https://skillicons.dev/icons?i=vite)](https://skillicons.dev "Vite")&nbsp;
 [![Vitest](https://skillicons.dev/icons?i=vitest)](https://skillicons.dev "Vitest")&nbsp;
 [![Jest](https://skillicons.dev/icons?i=jest)](https://skillicons.dev "Jest")&nbsp;
@@ -29,6 +29,7 @@ You can reach me at matthewraubert@gmail.com
 [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev "Node.js")&nbsp;
 [![Express](https://skillicons.dev/icons?i=express)](https://skillicons.dev "Express")&nbsp;
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev "MongoDB")
+[![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev "Tailwind CSS")
 
 ### Tools I Have Limited Experience With
 [![SQLite](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev "SQLite")&nbsp;
