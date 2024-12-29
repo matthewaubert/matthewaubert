@@ -2,9 +2,9 @@
 
 ## About Me
 
-I'm currently working on a career shift into full-stack web development, using <a href="https://www.theodinproject.com/">The Odin Project</a> curriculum to guide me. Previously I've been a graphic designer and a custom metalworker/blacksmith.
+Self-taught full-stack web developer. (Thank you to <a href="https://www.theodinproject.com/">The Odin Project</a>!) Previously I've been a graphic designer and a custom metalworker/blacksmith.
 
-In my personal time I love traveling, hiking and backpacking, landscape and wildlife photography, listening to and playing music, and reading.
+In my personal time I love to pursue my various interests: traveling, hiking and backpacking, learning languages, landscape and wildlife photography, listening to and playing music, and reading.
 
 You can reach me at matthewraubert@gmail.com
 
@@ -20,6 +20,8 @@ You can reach me at matthewraubert@gmail.com
 [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev "React")&nbsp;
 [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev "Node.js")&nbsp;
 [![Express](https://skillicons.dev/icons?i=express)](https://skillicons.dev "Express")&nbsp;
+[![.NET](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev ".NET")&nbsp;
+[![.PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev "PostgreSQL")&nbsp;
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev "MongoDB")&nbsp;
 [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev "Tailwind CSS")&nbsp;
 [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev "Git")&nbsp;
